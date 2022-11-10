@@ -31,6 +31,8 @@ require(knitr)
 require(foreign)
 ```
 
+
+
 link to the NORC site; get the data here
 https://gssdataexplorer.norc.org/variables/vfilter
 
